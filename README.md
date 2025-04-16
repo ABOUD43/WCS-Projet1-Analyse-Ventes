@@ -14,4 +14,14 @@ de données par pays.
 - Logistique: Le stock des 5 produits les plus commandés.
 - Ressources humaines: Chaque mois, les 2 vendeurs avec le CA le plus
 élevé.
- [!logo](https://github.com/ABOUD43/WCS-Projet1-Analyse-Ventes/blob/main/ressources.png)
+## Structure de la base de données
+La base de données est composée de plusieurs tables interconnectées, couvrant différents aspects de l'activité de l'entreprise :
+
+- Produits et catégories de produits
+
+- Commandes, détails de commande et paiements
+
+- Clients, employés et bureaux
+
+Le schéma relationnel ci-dessous permet de visualiser les liens entre ces différentes tables et de mieux comprendre la structure des données exploitées dans le tableau de bord.
+ [!Logo](https://github.com/ABOUD43/WCS-Projet1-Analyse-Ventes/blob/main/ressources.png)
