@@ -14,4 +14,4 @@ de données par pays.
 - Logistique: Le stock des 5 produits les plus commandés.
 - Ressources humaines: Chaque mois, les 2 vendeurs avec le CA le plus
 élevé.
- [shema](https://github.com/ABOUD43/WCS-Projet1-Analyse-Ventes/blob/main/ressources.png)
+ [!logo](https://github.com/ABOUD43/WCS-Projet1-Analyse-Ventes/blob/main/ressources.png)
