@@ -25,3 +25,6 @@ La base de données est composée de plusieurs tables interconnectées, couvrant
 
 Le schéma relationnel ci-dessous permet de visualiser les liens entre ces différentes tables et de mieux comprendre la structure des données exploitées dans le tableau de bord.
  ![Logo](https://github.com/ABOUD43/WCS-Projet1-Analyse-Ventes/blob/main/ressources.png)
+
+ Voici un aperçu du tableau de bord développé pour analyser les ventes, les finances, la logistique et les ressources humaines :
+
