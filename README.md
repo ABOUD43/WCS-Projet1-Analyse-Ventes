@@ -27,4 +27,11 @@ Le schéma relationnel ci-dessous permet de visualiser les liens entre ces diff�
  ![Logo](https://github.com/ABOUD43/WCS-Projet1-Analyse-Ventes/blob/main/ressources.png)
 
  Voici un aperçu du tableau de bord développé pour analyser les ventes, les finances, la logistique et les ressources humaines :
+ <p align="center">
+  <img src="images/ventes.png" alt="logo1" width="200"/>
+  <img src="images/Logistique.png" alt="logo2" width="200"/>
+  <img src="images/RH.png" alt="logo3" width="200"/>
+      <img src="images/Finances.png" alt="logo3" width="200"/>
+</p>
+
 
